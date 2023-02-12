@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="BTNNo">Нет</string>
+    <string name="BTNYes">Да</string>
+    <string name="TVtext">TextView</string>
+    <string name="BTNno">Нет</string>
+    <string name="BTNyes">Да</string>
+</resources>
