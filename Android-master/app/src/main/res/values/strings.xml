@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="BTNNo">Нет</string>
+    <string name="BTNYes">Да</string>
+    <string name="TVtext">TextView</string>
+    <string name="BTNno">Нет</string>
+    <string name="BTNyes">Да</string>
+    <string name="question_1">Небо голубое.</string>
+    <string name="question_2">киты это птицы.</string>
+    <string name="question_3">сегодня четверг.</string>
+    <string name="question_4">восемь больше семи.</string>
+    <string name="question_5">я знаю квантовую физику.</string>
+    <string name="question_6">земля плоская.</string>
+    <string name="correct_toast">Правильно</string>
+    <string name="incorrect_toaast">Ошибка</string>
+</resources>
